@@ -1,0 +1,2 @@
+py predict.py
+exit
